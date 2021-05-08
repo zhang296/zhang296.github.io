@@ -33,7 +33,24 @@
   <entry>
     <title>我的第一篇博客</title>
     <url>/2021/05/07/7/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<p>##生成<br>###1.配置</p>
+<p><code>git config –global user.name &quot;xxxxx&quot; git config –global user.email &quot;xxx@xx.xxx&quot;</code></p>
+<p>注：查下是否配置成功，用命令<br><code>git config --global --list</code></p>
+<p>###2.生成秘钥</p>
+<p><code>ssh-keygen -t rsa -C  &quot;上面的邮箱&quot;</code><br>注：执行上面命令后，连续回车3次</p>
+<p>##打印<br>###1、进入ssh</p>
+<p><code>cd ~/.ssh</code></p>
+<p>###2、打印ssh</p>
+<p><code>cat id_rsa.pub</code></p>
+]]></content>
+      <categories>
+        <category>java</category>
+        <category>SpringBoot</category>
+      </categories>
+      <tags>
+        <tag>java</tag>
+        <tag>SpringBoot</tag>
+      </tags>
   </entry>
   <entry>
     <title>第八篇测试文档</title>
