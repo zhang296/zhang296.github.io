@@ -40,4 +40,17 @@
     <url>/2021/05/08/8/</url>
     <content><![CDATA[]]></content>
   </entry>
+  <entry>
+    <title>测试文章</title>
+    <url>/2021/05/08/9/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>配置</category>
+        <category>分类2</category>
+      </categories>
+      <tags>
+        <tag>测试</tag>
+        <tag>config</tag>
+      </tags>
+  </entry>
 </search>
