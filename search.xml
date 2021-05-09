@@ -25,6 +25,18 @@
       </tags>
   </entry>
   <entry>
+    <title>typora-vue-theme主题介绍</title>
+    <url>/2018/09/07/11/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>Markdown</category>
+      </categories>
+      <tags>
+        <tag>Typora</tag>
+        <tag>Markdown</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>第三篇测试文档</title>
     <url>/2021/05/08/2/</url>
     <content><![CDATA[]]></content>
@@ -59,7 +71,8 @@
   <entry>
     <title>我的第一篇博客</title>
     <url>/2021/05/07/7/</url>
-    <content><![CDATA[<h4 id="生成"><a href="#生成" class="headerlink" title="生成"></a>生成</h4><h5 id="1-配置"><a href="#1-配置" class="headerlink" title="1.配置"></a>1.配置</h5><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git config –global user.name &quot;xxxxx&quot;</span><br><span class="line">git config –global user.email &quot;xxx@xx.xxx&quot;</span><br></pre></td></tr></table></figure>
+    <content><![CDATA[<h4 id="生成"><a href="#生成" class="headerlink" title="生成"></a>生成</h4><h5 id="1-配置"><a href="#1-配置" class="headerlink" title="1.配置"></a>1.配置</h5><pre class="line-numbers language-git" data-language="git"><code class="language-git">git config –global user.name <span class="token string">"xxxxx"</span>
+git config –global user.email <span class="token string">"xxx@xx.xxx"</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre>
 
 <p>注：查下是否配置成功，用命令<br><code>git config --global --list</code></p>
 <h5 id="2-生成秘钥"><a href="#2-生成秘钥" class="headerlink" title="2.生成秘钥"></a>2.生成秘钥</h5><p><code>ssh-keygen -t rsa -C  &quot;上面的邮箱&quot;</code><br>注：执行上面命令后，连续回车3次</p>
