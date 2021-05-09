@@ -124,8 +124,8 @@ body.mu .icon-logo {color:#333;}
 .timeline-subtitle {font-weight:400;font-size:22px}
 .timeline-subtitle::before {width:11px;height:11px;border-width:3px;left:-40px}
 .timeline-item {font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;position:relative;padding-left:100px}
-.timeline-item time {position:absolute;left:0;top:50%;transform:translateY(-50%);display:inline-block;font-weight:300;color:#616161;width:100px}
-.timeline-item a {color:#212121;font-weight:400;transition:all .3s ease}
+.timeline-item time {position:absolute;left:0;top:50%;transform:translateY(-50%);display:inline-block;font-weight:300;color:#616161;width:130px}
+.timeline-item a {color:#212121;font-weight:400;transition:all .3s ease;padding-left: 50px;}
 .timeline-item::before {width:9px;height:9px;border-width:2px;left:-38px}
 #container {padding-bottom:100px;overflow:hidden;position:relative;}
 #container:before {content:'';display:block;width:1px;height:200%;position:absolute;left:50%;background:#eaeaea;top:-50%;z-index:0;}
