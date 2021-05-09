@@ -57,14 +57,6 @@
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>第七篇测试文档</title>
-    <url>/2021/05/08/6/</url>
-    <content><![CDATA[<hr>
-<p>title:第七篇测试文档<br>date: 2021-05-08 09:04:03<br>categories:<br>    -<br>    -<br>tags:<br>    -<br>    -<br>mp3: <a href="https://link.hhtjim.com/163/1483891561.mp3">https://link.hhtjim.com/163/1483891561.mp3</a><br>cover: <a href="https://images7.alphacoders.com/673/thumbbig-673384.jpg">https://images7.alphacoders.com/673/thumbbig-673384.jpg</a></p>
-<hr>
-]]></content>
-  </entry>
-  <entry>
     <title>我的第一篇博客</title>
     <url>/2021/05/07/7/</url>
     <content><![CDATA[<h4 id="生成"><a href="#生成" class="headerlink" title="生成"></a>生成</h4><h5 id="1-配置"><a href="#1-配置" class="headerlink" title="1.配置"></a>1.配置</h5><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git config –global user.name &quot;xxxxx&quot;</span><br><span class="line">git config –global user.email &quot;xxx@xx.xxx&quot;</span><br></pre></td></tr></table></figure>
